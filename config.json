@@ -1,0 +1,10 @@
+{
+  "golden_key": "ВСТАВЬ_СЮДА",
+  "user_agent": "Mozilla/5.0",
+  "auto_delivery": true,
+  "auto_reply": true,
+  "reply_message": "💖 Спасибо за покупку!\n\n📥 Вот ваш гайд:\n{product}\n\nХорошей игры! 🚀",
+  "products": {
+    "гайд fps": "https://твоя-ссылка"
+  }
+}
